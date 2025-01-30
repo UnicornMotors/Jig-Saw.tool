@@ -2,6 +2,8 @@ new:
 - https://www.ebay.com/itm/355889298955
 - https://www.ebay.com/itm/266940800596
 - $37.72 [Craftsman CMES610 120V 5 Amp Corded Variable Speed Jigsaw](https://www.ebay.com/itm/286212088658)
+- $40 [Jigsaw, 6.5 Amp 3000 SPM Jig Saw with Laser, 6 Variable Speed, 6 Blades, ±45°...](https://www.ebay.com/itm/355889298955)
+- $35 [3.5 Amp Corded Jig Saw W/3Pc Blades 3000SPM W/Lock-On Button 45 Bevel Cut](https://www.ebay.com/itm/375952566516)
 
 used:
 - $15 [HYCHIKA 6.7A JIG SAW](https://www.ebay.com/itm/156653591479)
